@@ -1,1 +1,2 @@
-# version-control-exercises
+# Week2 github exercise
+## create a readme
