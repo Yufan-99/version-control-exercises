@@ -1,1 +1,2 @@
+Open the my_answers.txt file on your local machine and add some other data there
 click on the pencil icon, and add a few lines.
